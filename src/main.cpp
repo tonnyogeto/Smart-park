@@ -7,7 +7,7 @@
 #define SERVO_PIN 15      // GPIO pin for the servo signal wire
 
 // Constants
-const int INITIAL_POSITION = 150; // Initial position angle for the servo
+const int INITIAL_POSITION = 170; // Initial position angle for the servo
 
 Servo myServo; // Create a Servo object
 
